@@ -1,0 +1,7 @@
+public class Callie {
+
+    int baseHealth = 100;
+    int baseAttack = 25;
+    
+
+}

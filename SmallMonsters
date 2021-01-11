@@ -1,0 +1,23 @@
+import java.util.*;
+
+public class SmallMonsters
+{
+
+    private ArrayList<MiniMonster> miniMonsters;
+
+    public monsterList()
+    {
+        miniMonsters = new ArrayList<MiniMonster>();
+    }
+
+    public void addMonster (MiniMonster miniMonsters)
+    {
+        miniMonsters.add(miniMonsters);
+    }
+
+    public int numberOfMiniMonsters()
+    {
+        return miniMonsters.size();
+    }
+
+}
